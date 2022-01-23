@@ -1,4 +1,4 @@
-# http-request module
+# http-client-request module
 
 It is a module that hosts basic (GET,POST,PUT,DELETE) http methods.
 
