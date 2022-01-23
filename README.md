@@ -8,4 +8,4 @@ The base 2 methods are shown in the main.js file.
 
 # Installation
 
-npm install or i http-request
+npm install or i http-client-request
