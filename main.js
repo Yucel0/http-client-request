@@ -1,4 +1,4 @@
-import { HttpRequest } from "./http-request.js";
+import { HttpRequest } from "./http-client-request.js";
 
 const request = new HttpRequest();
 
