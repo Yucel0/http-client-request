@@ -1,0 +1,23 @@
+{
+  "name": "http-client-request",
+  "version": "1.0.2",
+  "description": "It is a module that hosts basic (GET,POST,PUT,DELETE) http methods.",
+  "main": "http-client-request.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Yucel0/http-client-request.git"
+  },
+  "keywords": [
+    "HTTP",
+    "GET",
+    "POST",
+    "PUT",
+    "DELETE"
+  ],
+  "author": "yucel_yilmaz",
+  "license": "ISC",
+  "homepage": "https://github.com/Yucel0/http-client-request#readme"
+}
